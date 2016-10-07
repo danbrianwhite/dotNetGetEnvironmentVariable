@@ -3,7 +3,7 @@
 
 ### Installation
 ```sh
-npm install dotNetGetEnvironmentVariable
+npm install dotnetgetenvironmentvariable
 ```
 
 ### Usage
