@@ -1,0 +1,22 @@
+{
+  "name": "dotnetgetenvironmentvariable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Dan White",
+    "email": "danbrianwhite@gmail.com",
+    "url": "http://danbrianwhite.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danbrianwhite/dotNetGetEnvironmentVariable.git"
+  },
+  "dependencies": {
+    "edge": "^6.5.1"
+  }
+}
